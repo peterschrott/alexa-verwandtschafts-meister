@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "RelativeIntent",
+      "slots": [
+      {
+        "name" : "Relative",
+        "type": "LIST_OF_RELATIVES"
+      }
+     ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}

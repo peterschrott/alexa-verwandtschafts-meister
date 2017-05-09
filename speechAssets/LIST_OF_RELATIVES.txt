@@ -1,0 +1,176 @@
+tochter meiner mutter
+tochter meines vaters
+tochter meiner eltern
+sohn meiner mutter
+sohn meines vaters
+sohn meiner eltern
+tochter meiner schwester
+tochter meines bruders
+sohn meiner schwester
+sohn meines bruders
+tochter meiner cousine
+tochter meines cousin
+enkeltochter meiner tante
+enkeltochter meines onkels
+sohn meiner cousine
+sohn meines cousin
+enkelsohn meiner tante
+enkelsohn meines onkels
+schwester meiner mutter
+schwester meines vaters
+tochter meiner großmutter
+tochter meines großvaters
+tochter meiner großeltern
+bruder meiner mutter
+bruder meines vaters
+sohn meiner großmutter
+sohn meines großvaters
+sohn meiner großeltern
+cousine meiner mutter
+cousine meines vaters
+tochter meines großonkels
+tochter meiner großtante
+cousin meiner mutter
+cousin meines vaters
+sohn meiner großtante
+sohn meines großonkels
+tochter meiner tante
+tochter meines onkels
+sohn meiner tante
+sohn meines onkels
+tochter meiner tante zweiten grades
+tochter meines onkles zweiten grades
+sohn meiner tante zweiten grades
+sohn meines onkels zweiten grades
+ehefrau meiner schwester
+ehefrau meines bruders
+ehepartnerin meiner schwester
+ehepartnerin meines bruders
+frau meiner schwester
+frau meines bruders
+partnerin meiner schwester
+partnerin meines bruders
+ehemann meiner schwester
+ehemann meines bruders
+ehepartner meiner schwester
+ehepartner meinees bruders
+mann meiner schwester
+mann meines bruders
+partner meiner schwester
+partner meines bruders
+tante meiner ehefrau
+tante meines ehemannes
+tante meines ehepartners
+tante meiner frau
+tante meines mannes
+onkel meiner ehefrau
+onkel meines ehemannes
+onkel meines ehepartners
+onkel meiner frau
+onkel meines mannes
+mutter meiner ehefrau
+mutter meines ehemannes
+mutter meines ehepartners
+mutter meiner frau
+mutter meines mannes
+vater meiner ehefrau
+vater meines mannes
+vater meiner frau
+vater meines ehepartners
+vater meines ehemannes
+ehefrau meiner tochter
+ehefrau meines sohnes
+ehepartnerin meiner tochter
+ehepartnerin meines sohnes
+frau meiner tochter
+frau meines sohnes
+partnerin meiner tochter
+partnerin meines sohnes
+ehemann meiner tochter
+ehepartner meiner tochter
+ehepartner meines sohnes
+mann meiner tochter
+mann meines sohnes
+partner meiner tochter
+partner meines sohnes
+eltern meiner eltern
+mutter meiner mutter
+mutter meines vaters
+vater meiner mutter
+vater meines vaters
+tante meiner mutter
+tante meines vaters
+schwester meiner großmutter
+schwester meines großvaters
+onkel meiner mutter
+onkel meines vaters
+brumeiner großmutter
+brumeines großvaters
+tochter meiner nichte
+tochter meines neffen
+sohn meiner nichte
+sohn meines neffen
+tochter meiner tochter
+tochter meines sohns
+sohn meiner tochter
+sohn meines sohnes
+kind meiner tochter
+kind meines sohnes
+tochter meiner enkeltochter
+tochter meines enkelsohns
+enkeltochter meiner tochter
+enkeltochter meines sohnes
+sohn meiner enkeltochter
+sohn meines enkelsohns
+enkelsohn meiner tochter
+enkelsohn meines sohnes
+kind meiner enkeltochter
+kind meines enkelsohns
+enkekind meiner tochter
+enkelkind meines sohnes
+mutter meiner großmutter
+mutter meines großvaters
+großmutter meiner mutter
+großmutter meines vaters
+vater meiner großmutter
+vater meiners großvaters
+großvater meiner mutter
+großvater meines vaters
+schwester
+bruder
+nichte
+neffe
+nichte zweiten grades
+neffe zweiten grades
+tante
+onkel
+tante zweiten grades
+onkel zweiten grades
+cousine
+cousin
+cousine zweiten grades
+cousin zweiten grades
+schwägerin
+schwager
+schweigertante
+schweigeronkel
+schweigermutter
+schwiegervater
+schwiegertochter
+schwiegersohn
+großeltern
+großmutter
+großvater
+großtante
+großonkel
+großnichte
+großneffe
+enkeltochter
+enkelsohn
+großkind
+enkelkind
+urenkeltochter
+urenkelsohn
+urenkelkind
+urgroßmutter
+urgroßvater
